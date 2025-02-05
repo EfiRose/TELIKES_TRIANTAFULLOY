@@ -1,9 +1,9 @@
 import math
 
 
-a=float(input("Δώσε το α "))
-b=float(input("Δώσε το β "))
-g=float(input("Δώσε το γ "))
+a=float(input("Δώσε το α1 "))
+b=float(input("Δώσε το β2 "))
+g=float(input("Δώσε το γ3 "))
 if (a==0):
     print("Η εξίσωση είναι πρωτοβάθμια")
 elif (a!=0):
